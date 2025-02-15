@@ -13,7 +13,7 @@ The data contains detailed information on job titles, salaries, locations, and e
 ![1_Salary_Dashboard](https://github.com/user-attachments/assets/2a030693-f820-4901-8579-5feb0e21c2cc)
 
 ### Dashboard File
-[My final dashboard is in] (1_Salary_Dashboard.xlsx)
+[My final dashboard is in](1_Salary_Dashboard.xlsx)
 
 ## Salary Analysis  
 These charts and graphs showcase the different skills and job titles in the data job market. It shows which skills are the most sought after by employers and pay the most based on country, job title, and more.  
